@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nagmyousif.com](https://nagmyousif.com)
 
-- 📝 I regularly write articles on [https:nagmtech.com](https:nagmtech.com)
+- 📝 I regularly write articles on [https:nagmtech.com](https://nagmtech.com)
 
 - 💬 Ask me about **PHP, laravel, react, vue**
 
